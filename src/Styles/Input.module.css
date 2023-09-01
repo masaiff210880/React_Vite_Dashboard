@@ -1,0 +1,8 @@
+.input{
+    border-radius: 6.777px;
+border: 0.678px solid var(--theme-color-blue-50, rgba(77, 175, 230, 0.50));
+background: var(--theme-color-white, #FCFCFC);
+
+/* blue shadow */
+box-shadow: 0px 4px 10px 0px rgba(0, 129, 249, 0.15);
+}

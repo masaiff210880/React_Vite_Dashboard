@@ -1,0 +1,20 @@
+.formLabel>h1 {
+    position: relative;
+    left: 35px;
+    top: 100px;
+    /* color: var(--theme-color-red, #EE4652); */
+    color: black;
+    /* Heading/Heading 3 */
+    font-size: 24px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 300px;
+}
+
+.formLabel {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}

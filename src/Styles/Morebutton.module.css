@@ -1,0 +1,40 @@
+.dropdown {
+    border-radius: 5px;
+    background: var(--theme-color-white, #FCFCFC);
+    border-radius: 5px;
+    border: 0.678px solid var(--theme-color-blue-50, rgba(7, 138, 245, 0.5));
+    height: 46px;
+}
+
+.main {
+    position: relative;
+    left: 940px;
+    top: 5px;
+}
+
+.moretext {
+    color: var(--theme-color-gray-3, #979797);
+
+    /* Text/Text Regular 2 */
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    position: relative;
+    left: 30px;
+}
+
+.morebox {
+    width: 146.186px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: var(--theme-color-white, #FCFCFC);
+}
+.menu{
+    width: 24px;
+height: 25px;
+flex-shrink: 0;
+}

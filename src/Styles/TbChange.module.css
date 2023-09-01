@@ -1,0 +1,39 @@
+.NavDiv {
+  display: flex;
+  width: 1572px;
+  height: 77px;
+  flex-shrink: 0;
+
+  background: var(--white, #fff);
+  background: var(
+    --theme-color-bright-blue-gradient,
+    linear-gradient(109deg, #0172f7 0%, #00cefb 100%)
+  );
+}
+
+.btnStyle {
+    display: flex;
+    width: 287px;
+    height: 64px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 42.16px;
+    margin-top: 17.11px;
+    margin-right: -28.89px;
+    border-radius: 8px 8px 0px 0px;
+background: var(--white, #FFF);
+    gap: 8px;
+    flex-shrink: 0;
+    border: none; /* Remove border */
+   
+    background: var(--white-30, rgba(255, 255, 255, 0.25));
+  }
+  
+.btnStyle > div {
+  width: 33px;
+  height: 34px;
+  flex-shrink: 0;
+}
+.btnStyle > div > img {
+  width: 80%;
+}

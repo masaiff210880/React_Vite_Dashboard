@@ -1,0 +1,21 @@
+.bottom{
+    width: 139.5370vh;
+    height: 9.9074vh;
+    background: var(--purple-10, rgba(77, 175, 230, 0.10));
+}
+.bottom>p{
+    color: #737373;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+position: relative;
+left: 70px;
+top: 15px;
+}
+.radios{
+    position: relative;
+    left: 330px;
+    top: -37px; 
+}

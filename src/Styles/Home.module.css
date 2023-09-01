@@ -1,0 +1,19 @@
+/* .container{
+    width: 165vh;
+    height: 150vh;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-image: url('../assets/ad/mainbackground.svg');
+} */
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url('../assets/ad/mainbackground.svg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
